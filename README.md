@@ -1,8 +1,8 @@
 # The Life-Changing Magic of Tidying Up by Marie Kondo
 
-ISBN: 987-1-60774-730-7 
-Finished On: 2023-08-18
-Rating: 9/10
+ISBN: 987-1-60774-730-7<br>
+Finished On: 2023-08-18<br>
+Rating: 9/10<br>
 Book Summary: A truly wonderful little book that teaches you how to tidy from start to finish while also being surprisingly deep and full of insight into human behavior and psychology. Parts of the book were a bit repetitive, but this was a minor issue given the usefulness of the book's content. The author's time as a Shinto shrine maiden becomes readily apparent in the second half of the book. Even though I do not believe that inanimate objects have awareness, the way she wrote these sections is endearing and made me smile often. Use what you learn here to get your house in order and never deal with clutter again.
 
 ---
