@@ -1,8 +1,16 @@
+# The Life-Changing Magic of Tidying Up
+
+ISBN: 987-1-60774-730-7 
+Finished On: 2023-08-18
+Rating: 9/10
+Book Summary: A truly wonderful little book that teaches you how to tidy from start to finish while also being surprisingly deep and full of insight into human behavior and psychology. Parts of the book were a bit repetitive, but this was a minor issue given the usefulness of the book's content. The author's time as a Shinto shrine maiden becomes readily apparent in the second half of the book. Even though I do not believe that inanimate objects have awareness, the way she wrote these sections is endearing and made me smile often. Use what you learn here to get your house in order and never deal with clutter again.
+
+---
+
 ## Introduction
 - The secret of success regarding tidying up is to start by discarding. Then organize your space, thoroughly, completely, and in one go.
 - A dramatic reorganization of the home causes correspondingly dramatic changes in lifestyle and perspective. It is life transforming.
 - When you put your house in order, you put your affairs and your past in order as well.
-- Once you have finished putting your house in order, your life will change dramatically.
 
 ---
 
@@ -31,8 +39,8 @@
 
 #### The moment you start you reset your life
 - When you start tidying, you will be compelled to reset your life. As a result, your life will start to change. 
-- This is why the task of putting your house in order should be done quickly — it allows your to confront the issues that are really important.
-- Tidying is just a tool, not the final destination. The true goal should be to establish the lifestyle that you want  most once your house has been put in order. 
+- This is why the task of putting your house in order should be done quickly — it allows you to confront the issues that are really important.
+- Tidying is just a tool, not the final destination. The true goal should be to establish the lifestyle that you want most once your house has been put in order. 
 
 #### Storage experts are hoarders
 - A booby trap lies within the term "storage."
@@ -60,7 +68,7 @@
 #### Make tidying a special event, not a chore
 - Tidying is a special event, don't do it every day.
 - The work of tidying should be completed once and for all within a single period of time.
-- There are two types of tidying: Daily tidying and special event tidying. Daily tidying, which consists of using something putting it back where it belongs, will always be part of our lives as long as we need to use clothes, books, writing materials, and so on. Special event tidying, which is the process of putting your house in order, should be a one and done event.
+- There are two types of tidying: Daily tidying and special event tidying. Daily tidying, which consists of using something and putting it back where it belongs, will always be part of our lives as long as we need to use clothes, books, writing materials, and so on. Special event tidying, which is the process of putting your house in order, should be a one and done event.
 - Without putting your house in order, any attempt to tidy on a daily basis is doomed to failure. Conversely, once you have put your house in order, tidying will be reduced to the very simple task of putting things back where they belong (which will become an unconscious habit over time).
 - Once you have experienced the powerful impact of a perfectly ordered space, you will never return to clutter.
 - Your goal is clearly in sight. The moment you have put everything in its place, you have crossed the finish line. You only have to decide where to put things once.
@@ -72,7 +80,7 @@
 #### Start by discarding, all at once, intensely and completely
 - When you tidy your space completely, you transform the scenery. The change is so profound that you feel as if you are living in a totally different world. 
 - This deeply affects your mind and inspires a strong aversion to reverting back to your previously cluttered state.
-- The key is to make the change so sudden that you experience a complete change of heart. The same impact can never be achieved if the process is gradual. "Sudden" for most people in this context is around 6 months. 
+- The key is to make the change so sudden that you experience a complete change of heart. The same impact can never be achieved if the process is gradual.
 - For the best results, adhere faithfully to the following rule: Tidy in the right order.
 - As mentioned previously, there are only two tasks involved with tidying and getting your house in order — discarding and deciding where to keep things. Discarding must come first.
 - Do not even think of putting your things away until you have finished the process of discarding. Failure to follow this rule is one reason many people never make permanent progress. 
@@ -80,7 +88,7 @@
 
 #### Before you start, visualize your destination
 - At this point you know why it is important to discard before you start thinking about where to keep things. But to begin discarding without first thinking ahead would be like casting yourself into the negative spiral of clutter.
-- Instead, begin by identifying by identifying your end goal. What do you wish to gain through tidying? Before you start getting rid of things, take the time to think through this carefully. 
+- Instead, begin by identifying your end goal. What do you wish to gain through tidying? Before you start getting rid of things, take the time to think through this carefully. 
 - This means visualizing the ideal lifestyle you dream of. If you skip this step, not only will it delay the whole process, but it will also put you at higher risk of for rebound.
 - Goals like "I want to be clutter-free" or "I want to be able to put things away" are too vague. You need to think much more deeply than that. Think in concrete terms so that you can vividly picture what it would be like to live in a clutter-free space.
 - Now that you can picture the lifestyle you dream of, is it time to move on to discarding? No, not yet. Your next step is to identify why you want to live like that. 
@@ -121,7 +129,7 @@
 #### Don't let your family see
 - Try not to let your family see what you decide to discard. 
 - There is nothing wrong with tidying, but it can be a stressful process for parents to see what their children discard. The sheer volume of the pile can make parents anxious about whether their children can survive on what's left. 
-- Parent's can also find it very painful to see clothes, toys, and mementos from the past in the discard pile, especially if they are things they gave to their child. For this reason, keeping your discard pile out of sight is considerate. It also protects your family form acquiring more than they need or can enjoy. 
+- Parent's can also find it very painful to see clothes, toys, and mementos from the past in the discard pile, especially if they are things they gave to their child. For this reason, keeping your discard pile out of sight is considerate. It also protects your family from acquiring more than they need or can enjoy. 
 
 #### If you're mad at your family, your room may be the cause
 - You can't force your family to be tidy. 
@@ -131,8 +139,8 @@
 
 #### What you don't need, your family doesn't either
 - If you want to give something away to a family member or friend rather than donating it or throwing it away, don't push people to take it unconditionally or pressure them by making them feel guilty. 
-- Find out in advance what they like, and if you find something that fits those criteria, then and only then should you show it to them. You can also offer to give it to them on the condition that it is something they would gave been willing to pay for. 
-- We need to show consideration for other by helping them avoid the burden of owning more than they need or can enjoy. 
+- Find out in advance what they like, and if you find something that fits those criteria, then and only then should you show it to them. You can also offer to give it to them on the condition that it is something they would have been willing to pay for. 
+- We need to show consideration for others by helping them avoid the burden of owning more than they need or can enjoy. 
 
 #### Tidying is a dialogue with one's self
 - The act of carefully considering each object you own to see whether it sparks joy inside of you is like conversing with oneself through the medium of your possessions.
@@ -143,7 +151,8 @@
 #### What to do when you can't throw something away
 - The main criterion for deciding whether or not to keep an item is whether or not it fills you with joy when you touch it. But it is human nature to resist throwing something away even when we know that we should. 
 - Items that we can't bring ourselves to discard even when they don't inspire joy are a real problem.
-- Human judgement can be divided into two broad types: intuitive and rational. When it comes to selecting what to discard, it is surprisingly our rational judgement that causes trouble. Although intuitively we know that an object has no attraction for us, our reason raises all kinds of arguments for not discarding it, such as "I might need this later" or "it's a waste to get rid of it."
+- Human judgement can be divided into two broad types: intuitive and rational. When it comes to selecting what to discard, it is surprisingly our rational judgement that causes trouble.
+- Although intuitively we know that an object has no attraction for us, our reason raises all kinds of arguments for not discarding it, such as "I might need this later" or "it's a waste to get rid of it."
 - There is nothing wrong with hesitating when deciding whether to part with an item or not. The inability to decide demonstrates a certain degree of attachment to a particular object. Nor can all decisions be made on intuition alone. This is precisely why we need to consider each object with care and not be distracted by thoughts of being wasteful. 
 - When you come across something that's hard to discard, consider carefully why you have that specific item in the first place. When did you get it and what meaning did it have for you then? Reassess the role it currently plays in your life.
 - Every object has a different role to play. Not all clothes that have come to you need to be worn threadbare. Not every person you meet in life will become a close friend or lover. Some you will find hard to get along with or impossible to like. But these people, too, teach you the precious lesson of who you do like, so that you will appreciate those special people even more. 
@@ -156,7 +165,7 @@
 #### Tidying order: follow the correct order of categories
 - Remember, start with clothes, then move on to books, papers, komono (miscellany), and finally, things with sentimental value. 
 - If you reduce what you own in this order, your work will proceed with surprising ease. By starting with the easy things first and leaving the hardest for last, you can gradually hone your decision-making skills, so that by the end, it seems simple. 
-- For the first category, clothing, divide everything into the following subcategories for increased efficiency: Tops (shirts, sweaters, etc.), Bottoms (pants, skirts, etc.), Clothes that should be hung (Jackets, coats, suits, etc.), Socks, Underwear, Bags (handbags, messenger bags, etc.), Accessories (scarves, belts, hats, etc.), Clothes for specific events (swimsuits, uniforms, etc.), and Shoes.
+- For the first category, clothing, divide everything into the following subcategories for increased efficiency: Tops (shirts, sweaters, etc.), Bottoms (pants, skirts, etc.), Clothes that should be hung (jackets, coats, suits, etc.), Socks, Underwear, Bags (handbags, messenger bags, etc.), Accessories (scarves, belts, hats, etc.), Clothes for specific events (swimsuits, uniforms, etc.), and Shoes.
 
 #### Clothing: place every item of clothing in the house on the floor
 - To get started with your clothing, check every closet and dresser in your house and gather all of your clothes in one spot. Make sure you have gathered every last piece of clothing. 
@@ -187,7 +196,7 @@
 - The simplest way to organize your closet is to hang clothes in the same category side by side, dividing your clothes into a jacket section, a suit section, and so on. This one principle alone will transform your closet.
 - A simple way to maintain the neatness of an organized closet is to arrange your clothes so that they rise to the right. By using this principle when you organize your closet, you can make the contents look far more exciting. 
 - To arrange your clothes so that they rise to the right, hang heavy items on the left side of the closet and light items on the right. Heavy items include those with length, those made from heavier material, and those that are dark in color. As you move toward the right side of the closet, the length of the clothing grows shorter, the material thinner, and the color lighter. 
-- By category, coats would be on the far left, followed by dresses, jackets, pants, skirts, and blouses. This is the basic order, but depending on the trends in your wardrobe, what classifies as "heavy" in each category will differ. Use your intuition to create a balance that makes it appear as if the clothes are sloping up and to the right. Additionally, organize the clothes within each category form heavy to light.  
+- By category, coats would be on the far left, followed by dresses, jackets, pants, skirts, and blouses. This is the basic order, but depending on the trends in your wardrobe, what classifies as "heavy" in each category will differ. Use your intuition to create a balance that makes it appear as if the clothes are sloping up and to the right. Additionally, organize the clothes within each category from heavy to light.  
 
 #### Storing socks: treat your socks and stocking with respect
 - Never, ever tie up your stockings. Never, ever ball up your socks.
@@ -196,7 +205,7 @@
 - Folding socks is easy. If you have folded back the tops, start by unfolding them. Place one sock on top of the other and follow the same principles as those for folding clothing. For low-cut socks that just cover the feet, folding twice is enough; for ankle socks, three times for knee socks and over-knee socks, four to six times. You can adjust the number of folds to achieve the height that best suits the drawer. Store the socks on edge, just as you did for clothing. 
 
 #### Seasonal clothes: eliminate the need to store off-season clothes
-- Organize your cloths on the premise that you aren't going to put off-season clothes in storage. The trick here is not to over-categorize. Divide your clothes roughly into cotton-like and wool-like materials when you put them in the drawer. 
+- Organize your clothes on the premise that you aren't going to put off-season clothes in storage. The trick here is not to over-categorize. Divide your clothes roughly into cotton-like and wool-like materials when you put them in the drawer. 
 - Categorizing by season (summer, winter, fall, and spring) or by activity, such as work and leisure, should be avoided because it is too vague. 
 
 #### Storing books: put all your books on the floor
@@ -204,7 +213,7 @@
 - Books are one of three things that people find hardest to let go. 
 - To begin, remove all the books from your bookcases and put them all on the floor. You cannot judge whether or not a book really grabs you when it's still on the shelf. Like clothes and other belongings, books that have been left untouched on the shelf for a long time are dormant.
 - If there are too many books to arrange on the floor all at the same time, divide them into four subcategories: General (books you read for pleasure), Practical (references, cookbooks, etc.), Visual (photo-books, etc.), and Magazines. 
-- Once you have piled your books, take them in your hand one by one and decide whether you want to keep or discard each one. The criterion is, of course, whether or not it gives you a thrill of pleasure when you touch it. Limit yourself to touching only and do not start reading any of the books as reading can cloud your judgement here.
+- Once you have piled your books, take them in your hand one by one and decide whether you want to keep or discard each one. The criterion is, of course, whether or not it gives you a thrill when you touch it. Limit yourself to touching only and do not start reading any of the books as reading can cloud your judgement here.
 
 #### Unread books: "sometime" means "never"
 - The most common reason for not discarding a book is "I might read it again."
@@ -226,11 +235,12 @@
 - The term "papers," in this context, does not include papers with sentimental value like old love letters or diaries. These kinds of papers can be left for when you tackle sentimental items later.  
 - The most basic principle for sorting papers is to throw most of them away. You should dispose of anything that does not fall into one of three categories: papers currently in use, papers needed for a limited period of time, or papers that must be kept indefinitely. 
 - Divide the papers that fall into any of the three categories mentioned above into two more categories: papers to be saved and papers that need to be dealt with. 
-- Letters requiring a reply, forms that need to be submitted, a newspaper that you intend to read soon — make a special corner for papers like these that need to be dealt with. Make sure that you keep all such papers in one spot only. Never let them spread to other parts of the house. Get a vertical organizer or tray in which papers can be stored and keep it in a designated area. All papers requiring attention can be placed here without separating them.
+- Letters requiring a reply, forms that need to be submitted, a newspaper that you intend to read soon — make a special corner for papers like these that need to be dealt with. Make sure that you keep all such papers in one spot only. Never let them spread to other parts of the house.
+- Get a vertical organizer or tray in which papers can be stored and keep it in a designated area. All papers requiring attention can be placed here without separating them.
 - Papers that must be saved should be subdivided according to frequency of use: those used frequently and those used infrequently. 
 - Infrequently used papers include insurance policies, guarantees, and leases. Since you will rarely have to use these papers, put them all into a single clear plastic folder without worrying about further categorization.
 - Frequently used papers include newspaper clippings, seminar outlines, etc. These papers are meaningless unless they are stored in a way that's easy to access and read. Store these papers by inserting them into the book-like pages of a clear plastic file folder. This category  is the trickiest of them all as they tend to multiply. Reducing the volume of this category is key to organizing your papers. 
-- Papers are organized into only three categories: needs attention, should be saved (contractual/legal documents), and should be saved (other). Keep all papers in one category in the same container or folder and purposely refrain from subdividing them any further by content. In other words, you only need three containers or folder to organize all of your papers. 
+- Papers are organized into only three categories: needs attention, should be saved (contractual/legal documents), and should be saved (other). Keep all papers in one category in the same container or folder and purposely refrain from subdividing them any further by content. In other words, you only need three containers or folders to organize all of your papers. 
 - Remember that your "needs attention" box ought to be empty. If there are papers in it, that means you have left things undone in your life and that require your attention. We should aspire to keep our "needs attention" boxes empty. 
 
 #### All about papers: how to organize troublesome papers
@@ -243,10 +253,10 @@
 
 #### Komono: keep things because you love them — not "just because"
 - In Japanese, komono means "small articles; miscellaneous items; accessories; small tools, parts or attachments."
-- Unlike clothing or books, this category included a diverse range of items and can feel more daunting to deal with. If you deal with them in the proper order, however, this task is quite simple. 
+- Unlike clothing or books, this category includes a diverse range of items and can feel more daunting to deal with. If you deal with them in the proper order, however, this task is quite simple. 
 - The basic order for sorting komono is as follows: 
 	1. CDs and DVDs
-	2. kin care products
+	2. Skin care products
 	3. Makeup
 	4. Accessories
 	5. Valuables (passports, credit cards, etc.)
@@ -261,8 +271,8 @@
 #### Common types of komono: disposables
 - Presents are not "things" but a means for conveying someone's feelings. If you are holding on to gifts that you do not enjoy or use, thank it for the joy it gave you when you first received it and then part with it. After all, would the person who gave it to you want you to use it solely out of a sense of obligation?
 - Throw out cosmetic samples that you're "saving for later or for traveling." You're never going to use them.
-- Stop saving the boxes that your cell phone or appliance came in. They are bulky and you do not need them. Treat your home as a home, not a storage container. 
-- Keep a single kind of each cord for your electronics. You do not need multiples of each cord unless said cord is used daily. Get rid of mystery cords as well. If you really need it eventually, you can buy a new one for a few dollars. 
+- Stop saving the boxes that your cell phone or appliance came in. They are bulky and you do not need them. Treat your home as a home, not a storage facility. 
+- Keep a single kind of each cord for your electronics. You do not need multiples of each cord unless more than one of the same cord is needed daily. Get rid of mystery cords as well. If you really need it eventually, you can buy a new one for a few dollars. 
 - Do not keep broken appliances unless you plan to have them fixed immediately. 
 - Do not keep bedding supplies for guests unless you actually have guests that stay with you on a regular basis. Unused bedding just takes us space and smells if it just sits in a closet and isn't used frequently.
 - You will never use spare buttons, so don't keep them. When a button falls off of an article of clothing, it usually means it has been well worn and loved and has reached the end of its life. If you want to keep a particular coat or jacket for a long time, sew a few spare buttons to the lining when you first buy them. If you ever actually end up needing a single button, you can always get what you need at a craft store. 
@@ -275,7 +285,7 @@
 - The way to decide what to keep is to pick up each item and ask yourself, "Does this spark joy?"
 - Do not send sentimental items to your parents' or anyone else's house. People never retrieve them anyway. Once they are sent "home," they will likely never be opened again.
 - Handling each sentimental item and deciding which to keep and which to discard is a powerful way of processing your past. If you just stow these items away in a drawer or cardboard box, your past will become a weight that holds you back and keeps you from living in the present. To put your things in order is to put your past in order, too. It's like resetting your life and settling your accounts so that you can take the next step forward.
-- It is not our memories but the person we have become because of those past experiences that we should treasure. That is the lesson these keepsakes teach us when we sort them. The space in which we live should be for the person we are becoming now, not for the person we were in the past. 
+- It is not our memories but the person we have become because of our past experiences that we should treasure. That is the lesson these keepsakes teach us when we sort them. The space in which we live should be for the person we are becoming now, not for the person we were in the past. 
 
 #### Photos: cherish who you are now
 - Photos should be treated like all previous categories mentioned: they should be piled up and gone through one by one, asking yourself if each one sparks joy or not. 
@@ -287,7 +297,7 @@
 - Sort by category, in the correct order, and keep only those things that inspire joy. Do this thoroughly and quickly, all in one go. If you follow this advice, you will dramatically reduce the volume of things you own, experience an exhilaration you have never known before, and gain confidence in your life.
 - As you reduce your belongings through the process of tidying, you will come to a point where you suddenly know how much is just right for you. It will feel like something has "clicked" inside your head. This is known as the "just-right-click-point." 
 - This point differs person to person, but once you pass it you will find that the amount of things you owns never increases past this point. This is why you will never experience rebound.
-- As you put your house in order and decrease the amount of possession you have, you'll see what your true values are, what is really important to you in your life. Don't focus on reducing, or on efficient storage methods though. Focus instead on choosing the things that inspire joy and on enjoying life according to your own standards. This is the true pleasure of tidying. 
+- As you put your house in order and decrease the amount of possessions you have, you'll see what your true values are, what is really important to you in your life. Don't focus on reducing, or on efficient storage methods though. Focus instead on choosing the things that inspire joy and on enjoying life according to your own standards. This is the true pleasure of tidying. 
 
 #### Follow your intuition and all will be well
 - It is important to follow your intuition when tidying. Following strict rules set by other people will have no lasting effect on you because you are not them. Only you can know which items you should keep, which ones you should discard, and what kind of environment makes you happy. The act of picking up and choosing which objects to keep is extremely personal. 
@@ -304,7 +314,7 @@
 #### Designate a place for each thing
 - Designate a specific place to keep every single thing you own.
 - Although it seems like deciding on a place for every item must be complicated, it's far simpler than deciding what to keep and what to discard. 
-- Once you have decided on what to keep according to type of item and since all of those items will belong to the same category, all you need to do is store them near each other.
+- Once you have decided on what to keep according to type of item, and since all of those items will belong to the same category, all you need to do is store them near each other.
 - The reason every item must have a designated place is because the existence of an item without a home multiplies the chances that your space will become cluttered again. 
 - You only need to designate a spot for every item once.
 - The essence of effective storage is this: designate a spot for every last thing you own. If you ignore this basic principle, you will likely fall back into clutter.
@@ -325,12 +335,12 @@
 
 #### Don't scatter storage spaces
 - There are only two rules that you need to follow to keep clutter at bay: store all items of the same type in the same place and don't scatter storage spaces.
-- If you life with family, first clearly define separate storage spaces for each family member.
+- If you live with family, clearly define separate storage spaces for each family member.
 
 #### Forget about "flow planning" and "frequency of use"
 - A common mistake many people make is to decide where to store things on the basis of where it's easiest to take them out. This is a terrible mistake.
 - Clutter is caused by a failure to return things to where they belong. Therefore, storage should reduce the effort needed to put things away, not the effort needed to get them out. 
-- Clutter has only two causes: too much effort is required to put things away (as mentioned above) or it is unclear where things belong.
+- Clutter has only two causes: there being too much effort required to put things away (as mentioned above) or not knowing where things belong.
 - There is no need to get complicated here. Just designate where to keep your things in accordance with the design of your home and your storage problems will be solved.
 - Store everything similar in the same place or in close proximity. Don't disperse your storage space.
 - When you are choosing what to keep, ask your heart; when you are choosing where to store something, ask your house.
@@ -359,15 +369,16 @@
 - To effectively use a closet, follow these guidelines.
 - Off-season clothing should be kept on the top shelf of the closet. This is also the best spot for large mementos that will not fit in a bookcase, such as wedding albums or other photo albums. Don't put them in boxes though. Instead, stand them up toward the front of the cupboard as you would books in a bookcase.
 - Regular clothes that will not be in dressers should be stored in the closet.
-- Bedding is best stored on the upper shelf of the closet where it is less exposed to humidity and dust. The bottom space of the closet can be used to store electrical appliances such as fans and space heaters. 
+- Bedding is best stored on the upper shelf of the closet where it is less exposed to humidity and dust. 
+- The bottom space of the closet can be used to store electrical appliances such as fans and space heaters. 
 
 #### Keep things out of the bath and kitchen sink
 - There is no need to keep soaps and shampoos out when we are not using them, and the added exposure to heat and moisture when they aren't in use is bound to affect their quality. For these reasons, you should keep everything out of the bath/shower and only bring them to the bath/shower when in use. After taking a bath/shower, dry them off and store them somewhere else, like under the sink.
-- This same principle applies to your kitchen sink. Store your dish soap away from the sink, like underneath it. Wring out and hang your sponge to dry when not in use to prevent it from smelling. 
+- This same principle applies to your kitchen sink. Store your dish soap away from the sink, like underneath it, when not in use. Wring out and hang your sponge to dry when not in use to prevent it from smelling. 
 - Extend this idea to the things you keep around your stove. If you keep bottles of oil, seasonings, etc right next to the stove full time, they will inevitably get coated with a layer of grease and food particles. Store these things in a cupboard or drawer.
 
 #### Don't underestimate the noise of written information
-- A deluge of written information makes a room feel "noisy," especially if the words are in your own language. Written words jump into your line of vision and your brain treats them as information to be sorted. This created unneeded commotion in your mind.
+- A deluge of written information makes a room feel "noisy," especially if the words are in your own language. Written words jump into your line of vision and your brain treats them as information to be sorted. This creates unneeded commotion in your mind.
 - Areas within a home that feel "noisy" even though they look very neat on the surface are usually overflowing with unnecessary information. The neater the house and the more sparse its furnishings, the louder this information feels. 
 - By eliminating excess visual information that doesn't inspire joy or have a use, you can make your space much more peaceful and comfortable. 
 
@@ -377,7 +388,8 @@
 
 #### Put your house in order and discover what you really want to do
 - At their core, the things we really like do not change much over time. Putting your house in order is a great way to discover what they are.
-- Although we can get to know ourselves better by sitting down and analyzing our characteristics or by listening to others' perspectives on us, tidying may be the best way. After all, our possessions very accurately relate the history of the decisions we have made in life. Tidying is a way of taking stock that shows us what we really like.
+- Although we can get to know ourselves better by sitting down and analyzing our characteristics or by listening to others' perspectives on us, tidying may be the best way. After all, our possessions very accurately relate the history of the decisions we have made in life.
+- Tidying is a way of taking stock that shows us what we really like.
 
 #### The magic effect of tidying
 - The lives of those who tidy thoroughly and completely, in a single shot, are dramatically altered.
@@ -406,3 +418,17 @@
 - One of the reasons clutter eats away at us us because we have to search for something just to find out whether it's even there.
 - When we have reduced the amount we own and store our items in the same place every time we are done using them, we can tell at a glance whether we have it or not. This is a massive stress reliever.
 - Life becomes far easier once you know that things will still work out even if you are lacking something.
+
+#### Do you greet your house?
+- Say "Hello! I'm home" to your house every time you return, just as you would greet your family or pet.
+- If you forget to greet your house when you walk in the door, then later, when you remember, say "Thank you for giving me shelter."
+- If you feel shy or embarrassed to say these things out loud, it is fine to say them silently in your mind.
+- If you do this repeatedly, you will start to feel your house respond when you come home. You will sense its pleasure passing through like a gentle breeze. Then you will gradually be able to feel where it would like you to tidy and where it would like you to put things. Carry on a dialogue with your home while tidying.
+- In essence, tidying ought to be the act of restoring balance among people, their possessions, and the house they live in.
+- Tidying is our opportunity to express our appreciation to our home for all that it does for us.
+
+#### Your real life begins after putting your house in order
+- Human beings can only truly cherish a limited number of things at one time.
+- We should tidy up quickly and get it over with. Why? Because tidying is not the purpose of life. 
+- Tidying can be done thoroughly and quickly, all in one go. The only tasks that you will need to continue for the rest of your life are those of choosing what to keep and what to discard and of caring for the things you decide to keep. You can put your house in order now, once and forever.
+- Once your house is in order, pour your time and passion into what brings you the most joy, your mission in life.
